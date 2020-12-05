@@ -1,6 +1,8 @@
  
 
 
+> Puedes jugar desde https://makecode.com/_2WwAdEdd4Vxc
+
 > Open this page at [https://adrosogon.github.io/collect-the-petals/](https://adrosogon.github.io/collect-the-petals/)
 
 ## Use as Extension
